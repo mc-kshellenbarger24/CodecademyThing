@@ -1,149 +1,152 @@
-javascript: function _0x4428(_0x23cb54, _0x25d9d3) {
-    var _0x581f82 = _0x581f();
-    return (
-        (_0x4428 = function (_0x4428a0, _0x4d48d4) {
-            _0x4428a0 = _0x4428a0 - 0x1e8;
-            var _0x5c920b = _0x581f82[_0x4428a0];
-            return _0x5c920b;
-        }),
-        _0x4428(_0x23cb54, _0x25d9d3)
-    );
-}
-function _0x581f() {
-    var _0xf561c9 = [
-        "Answer",
-        "styles_spacing-tight__BpBl3\x20styles_markdown__AWUAP\x20styles_darkTheme__rGgG8\x20gamut-j65cw0\x20eebs94a0",
-        "Solution",
-        "click",
-        "11jzIKeF",
-        "e1j9ev0f0",
-        "(Selected)\x0aCorrect:\x0a\x0a",
-        "replace",
-        "62bIljRL",
-        "gamut-m1pnqw-Box\x20ebnwbv90",
-        "9xMBWht",
-        "e1w6mdco0\x20gamut-18luxs6-ResetElement-createButtonComponent\x20e1bhhzie0",
-        "getElementsByClassName",
-        "2170024wlBduV",
-        "\x0a\x0aCorrect\x20answer",
-        "push",
-        "12206zvnSwT",
-        "e14vpv2g1\x20gamut-wrur67-ResetElement-Anchor-AnchorBase\x20e1bhhzie0",
-        "length",
-        "786485eFFgdJ",
-        "18JjPUgC",
-        "e1w6mdco0\x20gamut-1tme0h-ResetElement-createButtonComponent\x20e1bhhzie0",
-        "21612pzWhea",
-        "innerText",
-        "true",
+function _0x3e43() {
+    var _0x4f46c4 = [
         "Enter\x20your\x20make\x20min\x20Quiz\x20percent.",
-        "forEach",
-        "aria-disabled",
-        "getAttribute",
-        "Text",
+        "styles_answer__lKUdV\x20styles_answer__lKUdV\x20styles_correct__nmPRD",
+        "2574099DnBRiW",
+        "Answer",
+        "click",
+        "styles_spacing-tight__BpBl3\x20styles_markdown__AWUAP\x20styles_darkTheme__rGgG8\x20gamut-j65cw0\x20eebs94a0",
+        "\x0a\x0aCorrect\x20answer",
+        "length",
+        "e1w6mdco0\x20gamut-18luxs6-ResetElement-createButtonComponent\x20e1bhhzie0",
+        "aria-expanded",
+        "gamut-cdeh9p-Box\x20ebnwbv90",
+        "styles_answer__lKUdV\x20styles_answer__lKUdV",
+        "e1w6mdco0\x20e1bhhzie0",
+        "e14vpv2g1\x20gamut-k25g1o-ResetElement-Anchor-AnchorBase\x20e1bhhzie0",
+        "2080436lxPvut",
+        "fcn-task__check\x20styles_centeredCheckbox__B2SOV",
+        "Solution",
+        "push",
+        "e1w6mdco0\x20gamut-1tme0h-ResetElement-createButtonComponent\x20e1bhhzie0",
+        "toString",
         "gamut-powark-Text\x20e8i0p5k0",
-        "9966210BjlYVW",
-        "1055346yzEgvu",
-        "105465eipvGM",
+        "Text",
+        "true",
+        "1099002vMtTUI",
+        "(Selected)\x0aCorrect:\x0a\x0a",
         "false",
+        "6oTlTcH",
+        "forEach",
+        "innerText",
+        "styles_answer__lKUdV\x20styles_answer__lKUdV\x20styles_notSelected__lfOYa\x20styles_correctNotSelected__nC_rh",
+        "replace",
+        "7GpgVKp",
+        "getElementsByClassName",
+        "12601496iYQwBi",
+        "getAttribute",
+        "312055DfOIns",
+        "14727357wPVSRY",
+        "413085KybbWc",
     ];
-    _0x581f = function () {
-        return _0xf561c9;
+    _0x3e43 = function () {
+        return _0x4f46c4;
     };
-    return _0x581f();
+    return _0x3e43();
 }
-(function (_0x2b6316, _0xa3fa0c) {
-    var _0x47de2e = { _0x22f436: "0x1fc", _0xa34c5: "0x1f4", _0x416207: "0x1ea", _0x2844a5: "0x1ff", _0x19cfca: 0x1f9, _0x360d00: 0x1f6, _0x1ef824: "0x1e8" },
-        _0x2e9f4c = _0x4428,
-        _0x2aff37 = _0x2b6316();
+(function (_0x1b6d17, _0x35665f) {
+    var _0x5d4630 = { _0x67ead9: "0x117", _0x1cabf3: 0x11a },
+        _0x2a68b0 = _0x57da,
+        _0x57701f = _0x1b6d17();
     while (!![]) {
         try {
-            var _0x2f6551 = (-parseInt(_0x2e9f4c(_0x47de2e._0x22f436)) / 0x1) * (parseInt(_0x2e9f4c(_0x47de2e._0xa34c5)) / 0x2) + -parseInt(_0x2e9f4c("0x1e9")) / 0x3 + parseInt(_0x2e9f4c("0x202")) / 0x4 + parseInt(_0x2e9f4c(_0x47de2e._0x416207)) / 0x5 + (parseInt(_0x2e9f4c("0x200")) / 0x6) * (-parseInt(_0x2e9f4c(_0x47de2e._0x2844a5)) / 0x7) + (-parseInt(_0x2e9f4c(_0x47de2e._0x19cfca)) / 0x8) * (-parseInt(_0x2e9f4c(_0x47de2e._0x360d00)) / 0x9) + (-parseInt(_0x2e9f4c(_0x47de2e._0x1ef824)) / 0xa) * (-parseInt(_0x2e9f4c(0x1f0)) / 0xb);
-            if (_0x2f6551 === _0xa3fa0c) break;
-            else _0x2aff37["push"](_0x2aff37["shift"]());
-        } catch (_0x5ad9fe) {
-            _0x2aff37["push"](_0x2aff37["shift"]());
+            var _0xdccdd3 = (parseInt(_0x2a68b0(0x119)) / 0x1) * (-parseInt(_0x2a68b0("0x136")) / 0x2) + -parseInt(_0x2a68b0("0x11e")) / 0x3 + -parseInt(_0x2a68b0("0x12a")) / 0x4 + parseInt(_0x2a68b0(0x11b)) / 0x5 + -parseInt(_0x2a68b0("0x133")) / 0x6 + (parseInt(_0x2a68b0("0x13b")) / 0x7) * (parseInt(_0x2a68b0(_0x5d4630._0x67ead9)) / 0x8) + parseInt(_0x2a68b0(_0x5d4630._0x1cabf3)) / 0x9;
+            if (_0xdccdd3 === _0x35665f) break;
+            else _0x57701f["push"](_0x57701f["shift"]());
+        } catch (_0x20f5ff) {
+            _0x57701f["push"](_0x57701f["shift"]());
         }
     }
-})(_0x581f, 0x37741);
-_0x5b32b7: try {
+})(_0x3e43, 0xc281f);
+_0x41dfac: try {
     clearInterval(Update);
-} catch (_0x253d98) {}
+} catch (_0x900511) {}
+function _0x57da(_0x3ec37c, _0x1b7c87) {
+    var _0x3e4345 = _0x3e43();
+    return (
+        (_0x57da = function (_0x57da6a, _0x311dcd) {
+            _0x57da6a = _0x57da6a - 0x117;
+            var _0x436e69 = _0x3e4345[_0x57da6a];
+            return _0x436e69;
+        }),
+        _0x57da(_0x3ec37c, _0x1b7c87)
+    );
+}
 var DoingQuiz = ![],
     CompletQuiz = !![],
     QuizData = [],
     Atempts = 0x0,
     TargetPercent = 0x50;
 Update = setInterval(() => {
-    var _0x5e3688 = { _0x585895: 0x1f8, _0x2794a2: "0x1f8", _0x3bf0ad: 0x20a, _0x10357a: "0x1f8", _0x91ef7c: 0x1f8, _0x8458f3: "0x1fd", _0x1c9b7e: "0x1f5", _0x2252dd: 0x201, _0xcbca0b: "0x1f3", _0x593893: "0x207", _0x54d4ba: "0x1eb", _0x1f60ce: 0x1ef, _0x7cca53: 0x1f8, _0x5ceb43: "0x1f1", _0x54a687: "0x209", _0x295eea: 0x203, _0x2b3c90: "0x1ec", _0x2b99a3: 0x1f3, _0x2e7f75: "0x1fb" },
-        _0x2fd092 = { _0x361b55: 0x203, _0x40b17f: 0x1ec, _0x5e09f5: 0x1ef },
-        _0x3b72eb = { _0x26cb67: "0x1ee", _0x244325: "0x208" },
-        _0xc2d873 = _0x4428;
-    (QuizCount = QuizData["length"]),
-        (RightQuizeAnswer = document[_0xc2d873(_0x5e3688._0x585895)]("styles_answer__lKUdV\x20styles_answer__lKUdV\x20styles_notSelected__lfOYa\x20styles_correctNotSelected__nC_rh")[0x0] || document[_0xc2d873(_0x5e3688._0x2794a2)]("styles_answer__lKUdV\x20styles_answer__lKUdV\x20styles_correct__nmPRD")[0x0]),
-        (QuizAnswerText = document[_0xc2d873("0x1f8")](_0xc2d873("0x1ed"))[0x0]),
-        (QuizPercent = document[_0xc2d873(0x1f8)](_0xc2d873(_0x5e3688._0x3bf0ad))[0x0]),
-        (QuizRetakeButton = document[_0xc2d873(_0x5e3688._0x585895)]("e1w6mdco0\x20e1bhhzie0")[0x0]),
-        (QuizAnswerButtons = document[_0xc2d873("0x1f8")]("styles_answer__lKUdV\x20styles_answer__lKUdV")),
-        (NextButton = document[_0xc2d873(_0x5e3688._0x10357a)](_0xc2d873(0x1f7))[0x0]),
-        (ProjectChecks = document["getElementsByClassName"]("fcn-task__check\x20styles_centeredCheckbox__B2SOV")),
-        (DragAndDrop = document[_0xc2d873(_0x5e3688._0x91ef7c)]("e1j9ev0f0\x20gamut-a96lxw\x20eaww77u2")),
-        (UnstuckButton = document[_0xc2d873("0x1f8")]("e14vpv2g1\x20gamut-k25g1o-ResetElement-Anchor-AnchorBase\x20e1bhhzie0")[0x0]),
-        (UnstuckMenu = document["getElementsByClassName"]("gamut-cdeh9p-Box\x20ebnwbv90")[0x0]),
-        (SolutionButton = document[_0xc2d873(0x1f8)]("gamut-1kquojn-ListButton\x20e1dfahz20")[0x2]),
-        (GetCodeSolutionButton = document["getElementsByClassName"](_0xc2d873(_0x5e3688._0x8458f3))[0x0]),
-        (GetCodeSolutionMenu = document[_0xc2d873("0x1f8")](_0xc2d873(_0x5e3688._0x1c9b7e))[0x0]),
-        (ReplaceWithSolutionButton = document[_0xc2d873(_0x5e3688._0x2794a2)](_0xc2d873(_0x5e3688._0x2252dd))[0x0]);
-    QuizPercent && (QuizPercent["innerHTML"][_0xc2d873(_0x5e3688._0xcbca0b)]("%", "") <= TargetPercent ? ((DoingQuiz = ![]), (CompletQuiz = ![])) : ((CompletQuiz = !![]), (DoingQuiz = ![])));
+    var _0x5bbadd = { _0x508504: "0x123", _0xac983d: 0x11d, _0x2167ba: "0x13c", _0xc2dbac: "0x121", _0x2825da: 0x130, _0x478fb1: 0x128, _0x16b74f: 0x13c, _0x3615b8: 0x12e, _0x119c67: 0x120, _0x340b85: 0x123, _0x537ff8: 0x12d, _0x5df651: 0x138, _0x4d31ca: 0x131, _0x1d1a5a: "0x120", _0x406c95: "0x122", _0x21f634: "0x120" },
+        _0x3c2214 = { _0x4cd262: 0x123, _0x22cd88: 0x138 },
+        _0x53465d = { _0x1d72eb: "0x120" },
+        _0x51a144 = { _0x3c7700: 0x118 },
+        _0x1aa17c = { _0x42dfbf: 0x120 },
+        _0xfc3216 = _0x57da;
+    (QuizCount = QuizData[_0xfc3216(_0x5bbadd._0x508504)]),
+        (RightQuizeAnswer = document["getElementsByClassName"](_0xfc3216("0x139"))[0x0] || document["getElementsByClassName"](_0xfc3216(_0x5bbadd._0xac983d))[0x0]),
+        (QuizAnswerText = document[_0xfc3216(_0x5bbadd._0x2167ba)](_0xfc3216(_0x5bbadd._0xc2dbac))[0x0]),
+        (QuizPercent = document["getElementsByClassName"](_0xfc3216(_0x5bbadd._0x2825da))[0x0]),
+        (QuizRetakeButton = document[_0xfc3216(_0x5bbadd._0x2167ba)](_0xfc3216(_0x5bbadd._0x478fb1))[0x0]),
+        (QuizAnswerButtons = document["getElementsByClassName"](_0xfc3216(0x127))),
+        (NextButton = document[_0xfc3216("0x13c")](_0xfc3216(0x124))[0x0]),
+        (ProjectChecks = document[_0xfc3216(_0x5bbadd._0x16b74f)](_0xfc3216("0x12b"))),
+        (DragAndDrop = document[_0xfc3216(0x13c)]("e1j9ev0f0\x20gamut-a96lxw\x20eaww77u2")),
+        (UnstuckButton = document[_0xfc3216(_0x5bbadd._0x16b74f)](_0xfc3216(0x129))[0x0]),
+        (UnstuckMenu = document[_0xfc3216(0x13c)](_0xfc3216(0x126))[0x0]),
+        (SolutionButton = document[_0xfc3216(_0x5bbadd._0x16b74f)]("gamut-1kquojn-ListButton\x20e1dfahz20")[0x2]),
+        (GetCodeSolutionButton = document[_0xfc3216("0x13c")]("e14vpv2g1\x20gamut-wrur67-ResetElement-Anchor-AnchorBase\x20e1bhhzie0")[0x0]),
+        (GetCodeSolutionMenu = document[_0xfc3216(0x13c)]("gamut-m1pnqw-Box\x20ebnwbv90")[0x0]),
+        (ReplaceWithSolutionButton = document["getElementsByClassName"](_0xfc3216(_0x5bbadd._0x3615b8))[0x0]);
+    QuizPercent && (Number(QuizPercent["innerHTML"][_0xfc3216("0x13a")]("%", "")) <= TargetPercent[_0xfc3216(0x12f)]() ? ((DoingQuiz = ![]), (CompletQuiz = ![])) : ((CompletQuiz = !![]), (DoingQuiz = ![])));
     CompletQuiz &&
         NextButton &&
-        ((CanGoToNext = NextButton[_0xc2d873(0x208)](_0xc2d873(_0x5e3688._0x593893)) == _0xc2d873(_0x5e3688._0x54d4ba)),
+        ((CanGoToNext = NextButton[_0xfc3216("0x118")]("aria-disabled") == _0xfc3216(0x135)),
         CanGoToNext
-            ? NextButton[_0xc2d873(0x1ef)]()
+            ? NextButton[_0xfc3216(_0x5bbadd._0x119c67)]()
             : !UnstuckMenu &&
-              (UnstuckButton[_0xc2d873(_0x5e3688._0x1f60ce)](),
+              (UnstuckButton["click"](),
               setTimeout(() => {
-                  var _0x6a0074 = { _0x3e155c: 0x1ef },
-                      _0x596593 = _0xc2d873;
+                  var _0x33a466 = _0xfc3216;
                   SolutionButton &&
-                      (SolutionButton["innerText"] == _0x596593(_0x3b72eb._0x26cb67)
-                          ? ((SolutionExpanded = SolutionButton[_0x596593(_0x3b72eb._0x244325)]("aria-expanded") == _0x596593(0x204)),
+                      (SolutionButton[_0x33a466("0x138")] == _0x33a466("0x12c")
+                          ? ((SolutionExpanded = SolutionButton[_0x33a466(_0x51a144._0x3c7700)](_0x33a466(0x125)) == _0x33a466(0x132)),
                             !SolutionExpanded &&
-                                (SolutionButton["click"](),
+                                (SolutionButton[_0x33a466(0x120)](),
                                 setTimeout(() => {
-                                    var _0x2af440 = { _0x3af3d2: 0x1ef },
-                                        _0x3c93a4 = _0x596593;
+                                    var _0x5ba9ed = _0x33a466;
                                     !GetCodeSolutionMenu &&
-                                        (GetCodeSolutionButton[_0x3c93a4(_0x6a0074._0x3e155c)](),
+                                        (GetCodeSolutionButton[_0x5ba9ed(_0x1aa17c._0x42dfbf)](),
                                         setTimeout(() => {
-                                            var _0xe3be53 = _0x3c93a4;
-                                            ReplaceWithSolutionButton[_0xe3be53(_0x2af440._0x3af3d2)](),
+                                            ReplaceWithSolutionButton["click"](),
                                                 UnstuckMenu &&
                                                     setTimeout(() => {
-                                                        UnstuckButton["click"]();
+                                                        var _0x339141 = _0x57da;
+                                                        UnstuckButton[_0x339141("0x120")]();
                                                     }, 0x1f4);
                                         }, 0x1f4));
                                 }, 0x1f4)))
-                          : ((TargetPercent = prompt(_0x596593(0x205))), UnstuckButton[_0x596593("0x1ef")](), (CompletQuiz = ![]), (DoingQuiz = !![])));
+                          : ((TargetPercent = prompt(_0x33a466("0x11c"))), UnstuckButton[_0x33a466(0x120)](), (CompletQuiz = ![]), (DoingQuiz = !![])));
               }, 0x1f4)));
     if (DoingQuiz)
         Atempts <= 0x1
             ? QuizAnswerText &&
-              (DragAndDrop["length"] == 0x0 && document[_0xc2d873(_0x5e3688._0x7cca53)](_0xc2d873(_0x5e3688._0x5ceb43))[_0xc2d873("0x1fe")] == 0x0
-                  ? (QuizCount == 0x0 ? (QuizData["push"]({ Text: QuizAnswerText["innerText"], Answer: "" }), QuizAnswerButtons[0x0][_0xc2d873(_0x5e3688._0x1f60ce)]()) : QuizData[QuizCount - 0x1][_0xc2d873(_0x5e3688._0x54a687)] == undefined && ((QuizData[QuizCount - 0x1] = { Text: QuizAnswerText[_0xc2d873(_0x5e3688._0x295eea)], Answer: "" }), QuizAnswerButtons[0x0][_0xc2d873("0x1ef")]()), RightQuizeAnswer && ((QuizData[QuizCount - 0x1][_0xc2d873(_0x5e3688._0x2b3c90)] = RightQuizeAnswer["innerText"][_0xc2d873(_0x5e3688._0x2b99a3)](_0xc2d873(0x1fa), "")["replace"](_0xc2d873("0x1f2"), "")), QuizData[_0xc2d873(_0x5e3688._0x2e7f75)]({}), NextButton[_0xc2d873(0x1ef)]()))
-                  : NextButton && NextButton[_0xc2d873(0x1ef)]())
-            : QuizData[_0xc2d873(0x206)]((_0x9fd757) => {
-                  var _0x3eb2bd = _0xc2d873;
-                  if (_0x9fd757[_0x3eb2bd(0x209)] == QuizAnswerText[_0x3eb2bd(_0x2fd092._0x361b55)])
-                      for (let _0x10d2d9 = 0x0; _0x10d2d9 < QuizAnswerButtons["length"]; _0x10d2d9++) {
-                          const _0x3ff9fe = QuizAnswerButtons[_0x10d2d9];
-                          _0x3ff9fe[_0x3eb2bd(0x203)] == _0x9fd757[_0x3eb2bd(_0x2fd092._0x40b17f)] &&
-                              (_0x3ff9fe[_0x3eb2bd(_0x2fd092._0x5e09f5)](),
+              (DragAndDrop[_0xfc3216(_0x5bbadd._0x340b85)] == 0x0 && document[_0xfc3216("0x13c")]("e1j9ev0f0")["length"] == 0x0
+                  ? (QuizCount == 0x0 ? (QuizData[_0xfc3216(_0x5bbadd._0x537ff8)]({ Text: QuizAnswerText[_0xfc3216(_0x5bbadd._0x5df651)], Answer: "" }), QuizAnswerButtons[0x0][_0xfc3216("0x120")]()) : QuizData[QuizCount - 0x1][_0xfc3216(_0x5bbadd._0x4d31ca)] == undefined && ((QuizData[QuizCount - 0x1] = { Text: QuizAnswerText["innerText"], Answer: "" }), QuizAnswerButtons[0x0][_0xfc3216(_0x5bbadd._0x1d1a5a)]()), RightQuizeAnswer && ((QuizData[QuizCount - 0x1][_0xfc3216(0x11f)] = RightQuizeAnswer[_0xfc3216(0x138)][_0xfc3216(0x13a)](_0xfc3216(_0x5bbadd._0x406c95), "")[_0xfc3216(0x13a)](_0xfc3216("0x134"), "")), QuizData["push"]({}), NextButton[_0xfc3216(_0x5bbadd._0x21f634)]()))
+                  : NextButton && NextButton[_0xfc3216(0x120)]())
+            : QuizData[_0xfc3216(0x137)]((_0x529ac4) => {
+                  var _0xc22e36 = _0xfc3216;
+                  if (_0x529ac4[_0xc22e36("0x131")] == QuizAnswerText[_0xc22e36(0x138)])
+                      for (let _0x1a1576 = 0x0; _0x1a1576 < QuizAnswerButtons[_0xc22e36(_0x3c2214._0x4cd262)]; _0x1a1576++) {
+                          const _0x35c2d3 = QuizAnswerButtons[_0x1a1576];
+                          _0x35c2d3[_0xc22e36(_0x3c2214._0x22cd88)] == _0x529ac4[_0xc22e36(0x11f)] &&
+                              (_0x35c2d3[_0xc22e36(0x120)](),
                               setTimeout(() => {
-                                  var _0x470ce6 = _0x3eb2bd;
-                                  NextButton[_0x470ce6(0x1ef)]();
+                                  var _0x2bbe95 = _0xc22e36;
+                                  NextButton[_0x2bbe95(_0x53465d._0x1d72eb)]();
                               }, 0x1f4));
                       }
               });
-    else !CompletQuiz && (!DoingQuiz && ((DoingQuiz = !![]), Atempts++), QuizRetakeButton[_0xc2d873(_0x5e3688._0x1f60ce)]());
+    else !CompletQuiz && (!DoingQuiz && ((DoingQuiz = !![]), Atempts++), QuizRetakeButton[_0xfc3216(0x120)]());
 }, 0x1f4);
