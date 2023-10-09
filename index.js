@@ -1,4 +1,4 @@
-function _0x3e43() {
+javascript:function _0x3e43() {
     var _0x4f46c4 = [
         "Enter\x20your\x20make\x20min\x20Quiz\x20percent.",
         "styles_answer__lKUdV\x20styles_answer__lKUdV\x20styles_correct__nmPRD",
